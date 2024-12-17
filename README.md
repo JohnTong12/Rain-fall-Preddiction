@@ -18,8 +18,7 @@ Given weather data, the task is to predict whether it will rain tomorrow. The ta
 ---
 
 ## 📝 Project Description  
-
-This project explores and predicts rainfall patterns using machine learning models like **Logistic Regression**, **XGBoost**, and **CatBoost**. Visualization tools such as **Seaborn** and **Plotly Express** are used for exploratory data analysis (EDA) and result interpretation.
+The project aims to predict rainfall in Sydney using machine learning models based on weather-related data collected between 2008 and 2017. The dataset encompasses various weather variables such as temperature, humidity, precipitation, pressure, and cloud cover, allowing for the prediction of whether it will rain the following day.
 
 ---
 
