@@ -18,7 +18,8 @@ Given weather data, the task is to predict whether it will rain tomorrow. The ta
 ---
 
 ## 📝 Project Description  
-The project aims to predict rainfall in Sydney using machine learning models based on weather-related data collected between 2008 and 2017. The dataset encompasses various weather variables such as temperature, humidity, precipitation, pressure, and cloud cover, allowing for the prediction of whether it will rain the following day.
-
+The goal of this project is to develop a machine learning model that predicts whether it will rain tomorrow based on historical weather data. This involves analyzing various meteorological factors such as temperature, humidity, wind speed, and pressure to determine their influence on rainfall.
 ---
+
+
 
