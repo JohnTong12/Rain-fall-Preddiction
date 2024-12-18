@@ -70,7 +70,16 @@ I calculated the percentage of each variable contributing to missingness in the 
 
  ----
  # Interactions
- The first interaction we deed was about the numerical variable distribution with our target variable RainTommorrow 
+ The first interaction we deed was about the numerical variable distribution with our target variable RainTommorrow , From the  histograms, we identified patterns in key weather-related features that have a significant impact on predicting rainfall for the next day (RainTomorrow). These insights reveal:
+ 
+ * Humidity above 80% is a strong signal for rain tomorrow.
+ * High Cloud Cover at 9am and 3pm aligns with rainy days.
+ * Lower Temperatures increase the chance of rain (MinTemp and Temp9am).
+ * Most days have low rainfall (near 0), but extreme rainfall days align with "Yes" for rain. This skewed data could make predicting rainfall trickier unless handled properly.
+ * Wind-related features (moderate-to-high speeds) also correlate with rain events, making them useful predictors.
+ 
+
+ ![](assest/interactions.png)
  
  
 
