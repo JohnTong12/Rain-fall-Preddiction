@@ -57,6 +57,14 @@ I calculated the percentage of each variable contributing to missingness in the 
  
  Since we were aiming to for a classification modelling , we had to understand the distribution of the dataset in hand to know if it will really handle parametric classification Models for example Logistic Regression , the screenshot tells us that most of our data is not heavily skewed , so there will be no need to Transform the variable so that we achieve normality
  ![](assest/dist1.png)
+ 
+ ----
+ ## Statiscal Analysis
+ Hey , i carried out a An indifference student ttest the pingouin statistical libray , My aim was to find out if there is a statiscal difference between the means of the numerical variabled with the Independent variable RainTommorrow , with two levels , thats is Yes meaning it will rain tommorrow and No meaninng it will not rain tommorrow 
+ The screenshot below show the ouput of the ttest , we conducted , we found out that most of the variable were statically significant after that we calculated the Effect size , Being that they are significant , there effect are too minimal 
+ 
+
+ 
 
 
  
