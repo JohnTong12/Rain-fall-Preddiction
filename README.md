@@ -60,8 +60,13 @@ I calculated the percentage of each variable contributing to missingness in the 
  
  ----
  ## Statiscal Analysis
- Hey , i carried out a An indifference student ttest the pingouin statistical libray , My aim was to find out if there is a statiscal difference between the means of the numerical variabled with the Independent variable RainTommorrow , with two levels , thats is Yes meaning it will rain tommorrow and No meaninng it will not rain tommorrow 
+ Hey , i carried out a An indifference student ttest using ![Pingouin Statistical Library](https://pingouin-stats.org/build/html/_images/logo_pingouin.png),
+ My aim was to find out if there is a statiscal difference between the means of the numerical variabled with the Independent variable RainTommorrow , with two levels , thats is Yes meaning it will rain tommorrow and No meaninng it will not rain tommorrow 
  The screenshot below show the ouput of the ttest , we conducted , we found out that most of the variable were statically significant after that we calculated the Effect size , Being that they are significant , there effect are too minimal 
+
+ ![](assest/statiscal.png)
+
+ numeric feature shaded yellow having the largest effect size meaning it has the strongest relationship with the target variable
  
 
  
