@@ -96,7 +96,14 @@ I calculated the percentage of each variable contributing to missingness in the 
  ---
  ## Interaction between years and Maximum and Minimum 
  Exploring the relationship between different years and the fluctuations in maximum and minimum temperatures provides valuable insights into climatic trends and patterns
- ![]()
+ * Both Maximum Temperature (orange) and Minimum Temperature (blue) display a clear seasonal cycle over the 9-year period (2008-2017).
+ * Peaks occur annually, likely during summer (hot months).
+ * Troughs occur annually, likely during winter (cold months).
+ * Maximum temperatures occasionally exceed 45°C, indicating extreme heat events.
+ * Minimum temperatures drop below -5°C, suggesting occasional extreme cold events.
+ * The gap between maximum and minimum temperatures is wider during hotter months (peaks), especially from 2012 onward.
+ * There appears to be clustering of extreme maximum temperatures in certain years (e.g., 2011, 2013, and 2016).
+ ![](assest/maxtempt.png)
  
  
  
