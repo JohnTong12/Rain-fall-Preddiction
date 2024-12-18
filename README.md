@@ -1,4 +1,6 @@
 # 🌧️ Rainfall Prediction in Australia  
+ 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo2aXVkM2NyYm5hMXhyZWZwdmhwcXljbDUzcGZkaTQyYXBiNXRyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5torEEM8QnR95Cqg11/giphy.gif)
 
 Given weather data, the task is to predict whether it will rain tomorrow. The target variable `RainTomorrow` is binary: **Yes** or **No**.
 
@@ -18,10 +20,16 @@ Given weather data, the task is to predict whether it will rain tomorrow. The ta
 ---
 
 ## 📝 Project Description  
+
 The goal of this project is to develop a machine learning model that predicts whether it will rain tomorrow based on historical weather data. This involves analyzing various meteorological factors such as temperature, humidity, wind speed, and pressure to determine their influence on rainfall.
+
 ---
 
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo2aXVkM2NyYm5hMXhyZWZwdmhwcXljbDUzcGZkaTQyYXBiNXRyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5torEEM8QnR95Cqg11/giphy.gif)
+# About the dataset 
+The dataset was obtained from kaggle , it contains data about weather data in Australia collected from 2008 to 2017 , [here link](https://www.kaggle.com/datasets/trisha2094/weatheraus)
+
+
+
 
 
 
