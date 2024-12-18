@@ -39,9 +39,17 @@ The dataset had variables with missing values wwhere some variables had really h
 
 ---
 
-# Percentage of missing variables in the data 
+# Percentage of Misssingness  in the data 
 
-I calculated the percentage of each variable contributing to missingness in the dataset , we found out that some variables like Evaporation and Sunshine really have high percentage of missingness , here is  a screenshot to show the percentage of missingness
+I calculated the percentage of each variable contributing to missingness in the dataset , we found out that some variables like Evaporation and Sunshine really have high percentage of missingness ,
+
+ The screenshot below shows a calculated percentage of missingness per variable , but what was of high  corncern where the underlined  variables with high Missingness , these variables need to be Handled carefully before modelling since they can introduce bias in the data 
+
+ ![](assest/percentage.png)
+
+ The high variables were dropped after checking there correlation with the Target RainfallTommorrow , since all of them had a negative corrrelaation with the target i decided to opt for deleting them 
+ 
+ 
 
 
 
