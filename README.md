@@ -89,6 +89,14 @@ I calculated the percentage of each variable contributing to missingness in the 
 ![](assest/raint.png)
 ---
  # Pressure Values versus Rainfall 
+ I wanted to find the interactions between rainfall and Pressure values Pressure9am and Pressure3pm 
+ * we found out as rainfall increases pressure values drop
+ * Pressure is an important predictor of weather patterns. Low pressure is typically associated with unstable weather, leading to rain.
+ ![](assest/Pressure.png)
+ ---
+ ## Interaction between years and Maximum and Minimum 
+ Exploring the relationship between different years and the fluctuations in maximum and minimum temperatures provides valuable insights into climatic trends and patterns
+ ![]()
  
  
  
