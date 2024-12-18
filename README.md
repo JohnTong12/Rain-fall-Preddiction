@@ -32,8 +32,18 @@ The dataset contains very many weather related variables that may seem exiciting
 ![](assest/table.png)
 
 ---
-# Missingness in thee dataset  
+# Missingness in the dataset  
+
 The dataset had variables with missing values wwhere some variables had really high percentage of missingness where those wth high percentage of missigness were dropped
+![](assest/missingness.png)
+
+---
+
+# Percentage of missing variables in the data 
+
+I calculated the percentage of each variable contributing to missingness in the dataset , we found out that some variables like Evaporation and Sunshine really have high percentage of missingness , here is  a screenshot to show the percentage of missingness
+
+
 
 
 
