@@ -26,7 +26,14 @@ The goal of this project is to develop a machine learning model that predicts wh
 ---
 
 # About the dataset 
+
 The dataset was obtained from kaggle , it contains data about weather data in Australia collected from 2008 to 2017 , [here link](https://www.kaggle.com/datasets/trisha2094/weatheraus)
+The dataset contains very many weather related variables that may seem exiciting but the screenshot is only showing a few of the variables 
+![](assest/table.png)
+
+---
+# Missingness in thee dataset  
+The dataset had variables with missing values wwhere some variables had really high percentage of missingness where those wth high percentage of missigness were dropped
 
 
 
