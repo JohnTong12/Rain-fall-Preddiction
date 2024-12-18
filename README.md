@@ -47,7 +47,11 @@ I calculated the percentage of each variable contributing to missingness in the 
 
  ![](assest/percentage.png)
 
- The high variables were dropped after checking there correlation with the Target RainfallTommorrow , since all of them had a negative corrrelaation with the target i decided to opt for deleting them 
+ The high variables were dropped after checking there correlation with the Target RainfallTommorrow , since all of them had a negative corrrelaation with the target i decided to opt for deleting them , the screenshot sshows the correlation of the high variables with missigness with the target
+ ![](assest/correlation.png)
+
+ The rest of the variables were imputed mean , i impuetd with mean since the remaing percentage of missigness was not to  heavy , other imputation techiniques like KNN and iterative impueter came across my mind also
+ 
  
  
 
