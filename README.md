@@ -80,6 +80,13 @@ I calculated the percentage of each variable contributing to missingness in the 
  
 
  ![](assest/interactions.png)
+
+ ---
+ # Locations 
+ I found the proportion of the target variable across the Locations variable , we found out Raainfall patterns were varying significantly across different locations 
+ *  Locations such as Cairns, Darwin, and MountGambier have a significantly higher proportion of rainy days (more orange bars). Meanwhile, places like AliceSprings, Mildura, and Richmond show fewer rainy days (dominantly blue bars).
+ *  Some locations, like NorfolkIsland and Portland, show more balance between rainy and non-rainy days, indicating moderate rainfall frequency.
+![]()
  
  
 
