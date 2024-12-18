@@ -51,6 +51,14 @@ I calculated the percentage of each variable contributing to missingness in the 
  ![](assest/correlation.png)
 
  The rest of the variables were imputed mean , i impuetd with mean since the remaing percentage of missigness was not to  heavy , other imputation techiniques like KNN and iterative impueter came across my mind also
+
+ ----
+ # Distribution of the variables 
+ 
+ Since we were aiming to for a classification modelling , we had to understand the distribution of the dataset in hand to know if it will really handle parametric classification Models for example Logistic Regression , the screenshot tells us that most of our data is not heavily skewed , so there will be no need to Transform the variable so that we achieve normality
+ ![](assest/dist1.png)
+
+
  
  
  
