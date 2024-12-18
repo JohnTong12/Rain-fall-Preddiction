@@ -105,7 +105,8 @@ I calculated the percentage of each variable contributing to missingness in the 
  * There appears to be clustering of extreme maximum temperatures in certain years (e.g., 2011, 2013, and 2016).
  ![](assest/maxtempt.png)
 ----
-### MACHINE LEARNINING MODEL PERFORMANCE
+### MACHINE LEARNINING AND  MODEL BUILDING
+
 
  
  
