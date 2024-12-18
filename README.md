@@ -67,6 +67,11 @@ I calculated the percentage of each variable contributing to missingness in the 
  ![](assest/statiscal.png)
 
  numeric feature shaded yellow having the largest effect size meaning it has the strongest relationship with the target variable
+
+ ----
+ # Interactions
+ The first interaction we deed was about the numerical variable distribution with our target variable RainTommorrow 
+ 
  
 
  
